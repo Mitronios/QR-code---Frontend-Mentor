@@ -1,0 +1,45 @@
+body {
+    margin-top: 50px;
+    background-color: hsl(212, 45%, 89%);
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+div img {
+    width: 50%;
+}
+
+#qrBody {
+    margin:auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    background-color: hsl(0, 0%, 100%);
+}
+
+p {
+    font-size: 15px;
+}
+
+#instructions{
+    margin:auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    font-family: "Outfit";
+}
+#h {
+    font-weight: 700;
+    color: hsl(228, 45%, 22%);
+} 
+#p {
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+}
